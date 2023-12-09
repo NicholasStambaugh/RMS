@@ -44,7 +44,7 @@ RMS is a Rental Management System designed to simplify property management tasks
 
 # Contributing
 
-Contributions are welcome! If you have ideas for improvements or discover any issues, please open an [issue](https://github.com/your-username/RMS/issues) or submit a [pull request](https://github.com/your-username/RMS/pulls).
+Contributions are welcome! If you have ideas for improvements or discover any issues, please open an [issue](https://github.com/NicholasStambaugh/RMS/issues) or submit a [pull request](https://github.com/NicholasStambaugh/RMS/pulls).
 
 # Roadmap
 
