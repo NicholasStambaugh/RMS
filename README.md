@@ -52,4 +52,7 @@ Contributions are welcome! If you have ideas for improvements or discover any is
 - [ ] Add GUI with C++
 - [ ] Enhance utility tracking features
 - [ ] Expand documentation
-  
+
+# Changelog
+
+12/9/2023 - I started learning C today at around 6pm on 12/8. It is 3:45 AM and I started working on all of the base C files.
