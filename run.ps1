@@ -1,0 +1,9 @@
+Set-Location "C:\Users\Stambaugh\RMS\"; if($?) {gcc tenant_mgmt.c -o ten } ; if ($?) { .\app }
+Set-Location "C:\Users\Stambaugh\RMS\"; if($?) {gcc rent_calculator.c -o rent_calc } ; if ($?) { .\app }
+Set-Location "C:\Users\Stambaugh\RMS\"; if($?) {gcc expense_calculator.c -o expense_calc } ; if ($?) { .\app }
+Set-Location "C:\Users\Stambaugh\RMS\"; if($?) {gcc work_order.c -o wrkorder } ; if ($?) { .\app }
+Set-Location "C:\Users\Stambaugh\RMS\"; if($?) {gcc msg.c -o msg } ; if ($?) { .\app }
+Set-Location "C:\Users\Stambaugh\RMS\"; if($?) {gcc analytics.c -o analytics } ; if ($?) { .\app }
+Set-Location "C:\Users\Stambaugh\RMS\"; if($?) {gcc screening.c -o screen } ; if ($?) { .\app }
+Set-Location "C:\Users\Stambaugh\RMS\"; if($?) {gcc prop_utils.c -o putil } ; if ($?) { .\app }
+Set-Location "C:\Users\Stambaugh\RMS\"; if($?) {gcc simple_manager.c -o simple_manager } ; if ($?) { .\app }
